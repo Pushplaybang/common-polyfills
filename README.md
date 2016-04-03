@@ -8,7 +8,7 @@ Common javascript polyfills for patching older browsers and devices, Includes:
 
 
 ## Install
-Simple install the package via atmosphere
+For Meteor, Simple install the package via atmosphere
 
 ```sh
 meteor add pushplaybang:common-polyfills
