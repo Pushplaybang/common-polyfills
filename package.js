@@ -3,7 +3,7 @@ Package.describe({
   name: 'pushplaybang:common-polyfills',
   version: '0.0.1',
   summary: 'standard JS browser PolyFills',
-  git: '',
+  git: 'https://github.com/Pushplaybang/common-polyfills',
   documentation: 'README.md'
 });
 

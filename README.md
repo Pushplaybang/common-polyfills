@@ -16,6 +16,11 @@ meteor add pushplaybang:common-polyfills
 
 
 
+### Contributions and Suggestions Welcome!
+Have something you think this needs or could use as an improvement? Let me know.  add [an issue on github](https://github.com/Pushplaybang/common-polyfills) or fork and create a pull request.
+
+
+
 ____
 
 
