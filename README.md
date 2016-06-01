@@ -5,6 +5,7 @@ Common javascript polyfills for patching older browsers and devices, Includes:
 * classlist
 * Date.now
 * requestAnimationFrame
+* Element.remove
 
 
 ## Install

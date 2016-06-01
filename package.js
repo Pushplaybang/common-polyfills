@@ -1,7 +1,7 @@
 /* eslint-disable */
 Package.describe({
   name: 'pushplaybang:common-polyfills',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'standard JS browser PolyFills',
   git: 'https://github.com/Pushplaybang/common-polyfills',
   documentation: 'README.md'
