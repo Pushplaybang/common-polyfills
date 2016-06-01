@@ -13,6 +13,7 @@ Package.onUse(function(api) {
   api.use('ecmascript');
   api.addFiles('client/classlist.js', 'client');
   api.addFiles('client/dateNow.js', 'client');
+  api.addFiles('client/remove.js', 'client');
   api.addFiles('client/addEventListener.js', 'client');
   api.addFiles('client/requestAnimationFrame.js', 'client');
 });
